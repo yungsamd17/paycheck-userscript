@@ -5,8 +5,8 @@
 // @author       yungsamd17 & t3dotgg
 // @namespace    https://github.com/yungsamd17/twitter-userscript
 // @namespace    https://github.com/t3dotgg/paycheck-extension
-// @downloadURL  https://github.com/yungsamd17/twitter-userscript/raw/main/userscript/paycheck-for-twitter.user.js
-// @updateURL    https://github.com/yungsamd17/twitter-userscript/raw/main/userscript/paycheck-for-twitter.user.js
+// @downloadURL  https://github.com/yungsamd17/paycheck-userscript/raw/main/userscript/paycheck-for-twitter.user.js
+// @updateURL    https://github.com/yungsamd17/paycheck-userscript/raw/main/userscript/paycheck-for-twitter.user.js
 // @icon         https://raw.githubusercontent.com/yungsamd17/paycheck-userscript/main/assets/PCX-icon-48.png
 // @match        https://twitter.com/*
 // @match        https://mobile.twitter.com/*

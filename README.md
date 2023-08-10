@@ -3,7 +3,7 @@
 
 **Extension** - [Now on the Chrome Web Store](https://chrome.google.com/webstore/detail/paycheck-for-twitter/ldgffedhocinnolmaaecnppdfmmofilp)
 
-- [PayCheck for Twitter](https://github.com/yungsamd17/twitter-userscript/raw/main/userscript/paycheck-for-twitter.user.js)
+- [PayCheck for Twitter](https://github.com/yungsamd17/paycheck-userscript/raw/main/userscript/paycheck-for-twitter.user.js)
     - _**UserScript** to see (a very VERY rough idea of) how much money a post(Tweet) is worth._
 
 ## How to Install UserScript
