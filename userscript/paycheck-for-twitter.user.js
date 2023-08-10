@@ -7,7 +7,7 @@
 // @namespace    https://github.com/t3dotgg/paycheck-extension
 // @downloadURL  https://github.com/yungsamd17/paycheck-userscript/raw/main/userscript/paycheck-for-twitter.user.js
 // @updateURL    https://github.com/yungsamd17/paycheck-userscript/raw/main/userscript/paycheck-for-twitter.user.js
-// @icon         https://raw.githubusercontent.com/yungsamd17/paycheck-userscript/main/assets/PCX-icon-48.png
+// @icon         https://raw.githubusercontent.com/yungsamd17/paycheck-userscript/main/assets/paycheck-for-twitter.png
 // @match        https://twitter.com/*
 // @match        https://mobile.twitter.com/*
 // @match        https://tweetdeck.twitter.com/*
